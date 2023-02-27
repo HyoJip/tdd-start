@@ -9,5 +9,9 @@ Test-Driven Development:By Example -Kent Beck
   - `interface default,private function`
   - `@Functional interface`
 - 테스트 짜기 좋은 코드란 무엇일까 생각해보기
+  - **Boundary Layer**를 구분
 - 책 내용에서 추가 기능 구현 및 리팩토링
 - 레드->그린->리팩토링 무조건 지키기
+- `Mock` 사용하지 말기
+
+https://okky.kr/articles/476113
